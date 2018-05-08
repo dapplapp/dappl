@@ -36,7 +36,6 @@ Our solutions:
 
 •Full confidentiality
 
-More info:
 https://t.me/dapplapp
 
 What is PPLSWG?
@@ -46,7 +45,6 @@ Peoples World Group oficial points -
 PPLSWG is simple and modern way 
 to keep your intellectual property 
 
-More info:
 https://t.me/pplswg
 
 License
