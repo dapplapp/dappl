@@ -45,4 +45,4 @@ https://t.me/pplswg
 License
 -------
 
-Dappl & PPLSWG is released under the terms of the MIT license. See https://opensource.org/licenses/MIT.
+MIT
