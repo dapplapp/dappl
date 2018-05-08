@@ -9,6 +9,7 @@ Dappl is a universal platform for uploading, purchasing, and listening to copyri
 Our mission is to make music realization and transfer of intellectual property rights effortless, as well as to enable subscribers to listen to original songs for free.
 
 Our goals:
+
 *To enable songwriters to sell their creations avoiding a third party 
 *To allow performing artists to purchase music with all related rights material with one click
 *To permit anyone (yes, anyone) to sample new original compositions free of charge
@@ -39,10 +40,15 @@ Our solutions:
 What is PPLSWG?
 ----------------
 
-Peoples World Group Oficial points
+Peoples World Group Oficial points (tokens) - 
+simple and modern way to keep your intellectual property 
+
+More info:
 https://t.me/pplswg
 
 License
 -------
 
 MIT
+
+
