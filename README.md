@@ -6,7 +6,8 @@ What is Dappl?
 ----------------
 
 Dappl is a universal platform for uploading, purchasing, and listening to copyright exclusive content.
-Our mission is to make music realization and transfer of intellectual property rights effortless, as well as to enable subscribers to listen to original songs for free.
+Our mission is to make music realization and transfer of intellectual property rights effortless, 
+as well as to enable subscribers to listen to original songs for free.
 
 Our goals:
 
@@ -40,8 +41,9 @@ Our solutions:
 What is PPLSWG?
 ----------------
 
-Peoples World Group Oficial points (tokens) - 
-simple and modern way to keep your intellectual property 
+Peoples World Group oficial points -
+PPLSWG is simple and modern way 
+to keep your intellectual property 
 
 More info:
 https://t.me/pplswg
