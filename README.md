@@ -1,7 +1,5 @@
 # dappl
 
-https://t.me/dapplapp
-
 What is Dappl?
 ----------------
 
@@ -37,6 +35,9 @@ Our solutions:
 •Safe storage of funds
 
 •Full confidentiality
+
+More info:
+https://t.me/dapplapp
 
 What is PPLSWG?
 ----------------
