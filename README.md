@@ -1,7 +1,5 @@
 # dappl
 
-dappl/Снимок экрана 2018-03-15 в 23.12.57.png
-
 https://t.me/dapplapp
 
 What is Dappl?
