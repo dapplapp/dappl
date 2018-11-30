@@ -1,6 +1,6 @@
 # dappl
 
-ppls.strikingly.com
+https://ppls.strikingly.com
 
 What is Dappl?
 ----------------
