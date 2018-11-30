@@ -1,6 +1,6 @@
 # dappl
 
-https://ppls.strikingly.com
+http://bit.ly/pplsite
 
 What is Dappl?
 ----------------
