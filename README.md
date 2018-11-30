@@ -1,5 +1,7 @@
 # dappl
 
+ppls.strikingly.com
+
 What is Dappl?
 ----------------
 
@@ -37,13 +39,6 @@ Our solutions:
 •Full confidentiality
 
 https://t.me/dapplapp
-
-What is PPLSWG?
-----------------
-
-Peoples World Group oficial points -
-PPLSWG is simple and modern way 
-to keep your intellectual property 
 
 https://t.me/pplswg
 
